@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @harrupgu a last year PhD Student in a program called InnovaXN. https://www.innovaxn.eu/
-- 👀 I’m interested in 3D image analysis and recently very interested in the use of artificial intelligence in 3D imaging and materials science  
-- 🌱 I’m currently learning how to perform multiple 3D imaging techniques and processing using Neural Networks and more. 
-- 💞️ I’m looking to collaborate on the field and with anyone. Please ask me and if I can't find the solution I might help you doing something else. 
-- 📫 How to reach me aaharrupg@gmail.com
+Hi, I’m Anthony Harrup 
 
-<!---
-harrupgu/harrupgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Postdoctoral Associate in Massachusetts Institute of Technology (MIT).
+
+My research combines advanced materials characterization, three-dimensional X-ray imaging, and computational analysis. I am particularly interested in:
+
+Synchrotron and laboratory X-ray computed tomography
+3D image processing, segmentation, and quantitative analysis
+Machine learning and neural networks for materials characterization
+In situ experiments under high-temperature and mechanical-loading conditions
+Nuclear fuels, metallic alloys, and structure–property relationships
+
+I develop Python-based workflows for reconstructing, processing, and analyzing large 3D datasets, with a focus on connecting microstructural evolution to material performance.
+
+I am always interested in collaborating on materials science, image analysis, and machine-learning projects.
+
+📫 Contact: aaharrupg@gmail.com
+🔗 ORCID: 0009-0005-5469-7020
